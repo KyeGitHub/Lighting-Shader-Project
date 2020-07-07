@@ -1,0 +1,22 @@
+﻿  3dglBitmap.cpp
+  3dglObject.cpp
+  3dglShader.cpp
+  3dglModel.cpp
+  3dglSkyBox.cpp
+  3dglTerrain.cpp
+  main.cpp
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(388,31): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(583,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(584,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(648,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(650,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(653,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(699,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(700,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(736,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(742,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(787,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(814,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Work\Final projects\Lighting project\3dgp\main.cpp(823,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  3dgp.vcxproj -> D:\Documents\Work\Final projects\Lighting project\Debug\FirstScene.exe
